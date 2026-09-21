@@ -1,4 +1,8 @@
-## Hi there 👋
+- 👋 Hi, I’m Victor!
+- 👀 I’m passionate about developing and understanding complex technologies, and I enjoy connecting business challenges with technical solutions.
+- 💬 Graduating in 2027 from **CentraleSupélec**, with a final-year specialization in **AI for Healthcare**.
+- 📄 My experience includes an **AI Research Internship in the healthcare industry**, where I combined domain-specific expertise with agentic engineering capabilities, as well as an **Engineering Internship in the US** in the aviation industry.
+- 📫 How to reach me: **victor.perr2003@gmail.com**
 
 <!--
 **victorperr/victorperr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
